@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/jetty-repacked-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-server-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/softwares/jar_files (11)/snakeyaml-1.19.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/ant-1.10.12.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/ant-launcher-1.10.12.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/gitPractice/jar_files (8)/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/softwawsss/jar_files (12)/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/softwawsss/jar_files (12)/jquery-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/softwawsss/jar_files (12)/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/softwawsss/jar_files (12)/testng-7.8.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
